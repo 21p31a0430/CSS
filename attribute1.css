@@ -1,0 +1,12 @@
+input[type="text"]{
+	color:lawngreen;
+}
+input[type="number"]{
+	color:forestgreen;
+}
+a[href]{
+	background-color:seagreen;
+}
+img[src]{
+	size: 40px;
+}

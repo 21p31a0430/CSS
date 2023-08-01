@@ -1,0 +1,8 @@
+div{
+	height:168px;
+	width: 300px;
+	border:2px solid black;
+	background-image:url('img/orange.jfif');
+	background-repeat:no-repeat;
+	background-size: cover;
+}
